@@ -1,3 +1,5 @@
+This repository includes the build files along with the Blender project file (Task1_LavaMonster.blend) used to create the 3D model.
+
 Video Demo:
 https://drive.google.com/file/d/1MneDukEu7vCY8B4xWfp7LFo1DSjDGa46/view?usp=sharing
 
